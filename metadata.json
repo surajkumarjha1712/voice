@@ -1,0 +1,6 @@
+{
+  "name": "VoxStudio - High-Fidelity Text to Speech & Audio Studio",
+  "description": "Studio-grade text-to-speech studio with customizable voice styles, expressive dialogue directing, real-time waveform visualizer, and offline audio library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
